@@ -1,0 +1,20 @@
+.products
+{
+	width: 70%;
+}
+.main
+{
+	width: 90%;
+	margin: 0 auto;
+	min-height: 600px; 
+	background-color: white;
+}
+.bg-success
+{
+	padding: 1%;
+}
+.class form_block
+{
+	width: 70%; 
+	display: inline-block;
+}
